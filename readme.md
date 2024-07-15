@@ -1,6 +1,6 @@
-# Ethical Hacking Toolkit
+# Argos toolkit
 
-This toolkit provides several functions for ethical hacking, including port scanning, dictionary attacks, and remote file manipulation via SSH. The script is designed to be user-friendly and accessible through a simple command-line interface.
+Argos provides several functions for ethical hacking, including port scanning, dictionary attacks, and remote file manipulation via SSH. The script is designed to be user-friendly and accessible through a simple command-line interface.
 
 ## Features
 
@@ -20,15 +20,15 @@ This toolkit provides several functions for ethical hacking, including port scan
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ethical-hacking-toolkit.git
+   git clone https://github.com/mindcreator9/Argos.git
    cd ethical-hacking-toolkit
 
 
 ## Usage:
 
 Run the script and follow the prompts to choose a function and provide necessary inputs.
-python ethical_hacking_toolkit.py
-Or download the .exe
+python main.py
+Or download Argos.exe
 
 ## Port Scanning
 Choose the "Port Scan" option.
